@@ -1,9 +1,0 @@
-{
-	"name": "DemoPocAniADF",
-	"location": "eastus",
-	"identity": {
-		"type": "SystemAssigned",
-		"principalId": "66dc8306-0f85-4c18-a01d-7a50a111b105",
-		"tenantId": "ac2a2e52-63fe-49da-9d52-39d9e92360be"
-	}
-}
